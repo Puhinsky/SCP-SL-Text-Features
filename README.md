@@ -19,6 +19,10 @@
 Чтобы текст не перекрывался фоном, изменить шрифт текста: ```<font="LiberationSans SDF">Some Text</font>```\
 Пример: ```<font="LiberationSans SDF"><mark=#000000 padding="5000,5000,100,5000">Some Text</mark></font>```
 
+Использование материалов (пока не работает):\
+Тени: ```<font="LiberationSans SDF" material="LiberationSans SDF - Drop Shadow">Some Text</font>```\
+Обводка: ```<font="LiberationSans SDF" material="LiberationSans SDF - Outline">Some Text</font>```
+
 Повернуть: ```<rotate="45">Some Text</rotate>```; где "45" – градусы по часовой стрелке ("-45" – против)
 
 Нарисовать смайлик: ```<sprite=0>```; где 0 – индекс спрайта в атласе (всего их 16)
