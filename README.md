@@ -1,4 +1,6 @@
 # SCP-SL-Text-Features
+Мануал по тегам в TMP: https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextFont.html
+
 Перенос строки: ```\n```; (максимум 4 строки в broad cast)
 
 Сделать жирным: ```<b>Some Text</b>```
