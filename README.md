@@ -32,3 +32,5 @@
 Повернуть: ```<rotate="45">Some Text</rotate>```; где "45" – градусы по часовой стрелке ("-45" – против)
 
 Нарисовать смайлик: ```<sprite=0>```; где 0 – индекс спрайта в атласе (всего их 16)
+
+bc 5 8=<rotate="-74"><voffset=-9>=</rotate></voffset><rotate="-82"><voffset=-37>=</rotate></voffset><rotate="-85"><voffset=-82>=</rotate></voffset><rotate="-86"><voffset=-146>></rotate></voffset>
