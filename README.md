@@ -19,7 +19,7 @@
 
 Добавить задний фон: ```<mark=#FF00FF padding="10,10,0,0">Some Text</mark>```; где ```padding``` - опционально, значения означают отсупы наружу слева, справа, сверху и снизу; стандартные цвета не работают\
 Чтобы текст не перекрывался фоном, изменить шрифт текста: ```<font="LiberationSans SDF">Some Text</font>```\
-Пример: ```<font="LiberationSans SDF"><mark=#000000 padding="5000,5000,100,2260">Some Text</mark></font>```
+Пример: ```<font="LiberationSans SDF"><mark=#000000 padding="5000,5000,100,2260">Some Text</mark></font>```; (2260 – высота экрана в у.е.)
 
 Использование материалов (пока не работает):\
 Тени: ```<font="LiberationSans SDF" material="LiberationSans SDF - Drop Shadow">Some Text</font>```\
